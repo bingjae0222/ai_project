@@ -8,5 +8,6 @@ pg_p2   = st.Page("p2.py",   title="여행 예산 견적서", icon="💵")
 pg_p3   = st.Page("p3.py",   title="짐 꾸리기 체크리스트", icon="🧳")
 pg_p4 = st.Page("p4.py", title="여행 서류 정리 도우미", icon="🗂")
 
+
 nav = st.navigation([pg_main, pg_p1, pg_p2,pg_p3,pg_p4])
 nav.run()
