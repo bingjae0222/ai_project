@@ -5,7 +5,7 @@
 >  **✍️ 여행 일정**  **💵 예산**  **🧳 짐 꾸리기**  **🗂 문서/이미지 Q&A** 를 한 번에 해결하세요!
 
 ---
-## 🖼️ Streamlit URL
+## Streamlit URL
 > **https://aiproject-ndzmvd4rlhdvvu6k7q5re8.streamlit.app/**
 ---
 
