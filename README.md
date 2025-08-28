@@ -13,6 +13,10 @@
 ## 🖼️ Preview
 
 <p align="center">
+  <img src="docs/bandicam-2025-08-28-13-59-33-446.gif" width="800" alt="시연 영상">
+</p>
+
+<p align="center">
   <img src="docs/screenshot_main.png" width="800" alt="메인 페이지 스크린샷">
 </p>
 
